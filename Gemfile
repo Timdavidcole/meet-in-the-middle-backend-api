@@ -45,7 +45,7 @@ gem "rspec-rails", "~> 3.8"
 
 gem "bcrypt", "~> 3.1.7"
 
-gem "json", "~> 2.2"
+gem "json", "~> 2.3"
 
 gem "travis", "~> 1.8"
 
